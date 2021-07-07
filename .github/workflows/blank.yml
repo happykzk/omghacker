@@ -1,0 +1,15 @@
+@echo
+
+echo off
+
+echo virus detected
+
+pause
+
+saying goodbye to your computer
+
+pause
+
+pause
+
+shutdown.exe       /h
